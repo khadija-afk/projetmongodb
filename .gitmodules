@@ -1,0 +1,6 @@
+[submodule "BackTweet"]
+	path = BackTweet
+	url = https://github.com/khadija-afk/projetmongodb.git
+[submodule "sieliTweet"]
+	path = sieliTweet
+	url = https://github.com/khadija-afk/projetmongodb.git
